@@ -19,7 +19,6 @@ docs {
         }
     }
 }
-
 readmeBadges {
     coverage.set(false)
 }
