@@ -3,7 +3,6 @@ plugins {
     `javiersc-all-projects`
     `javiersc-changelog`
     `javiersc-code-analysis`
-//    `javiersc-code-coverage`
     `javiersc-code-formatter`
     `javiersc-docs`
     `kotlinx-binary-compatibility-validator`
